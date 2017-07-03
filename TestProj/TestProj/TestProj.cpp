@@ -9,6 +9,7 @@ using namespace std;
 int main()
 {
 	cout << "37" << endl;
+	cout << "New Branch" << endl;
 	getchar();
     return 0;
 }
