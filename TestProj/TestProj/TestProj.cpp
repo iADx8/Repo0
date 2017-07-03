@@ -8,8 +8,8 @@ using namespace std;
 
 int main()
 {
-	cout << "37" << endl;
-	cout << "New Branch" << endl;
+	cout << "1" << endl;
+	cout << "Branch 1" << endl;
 	getchar();
     return 0;
 }
