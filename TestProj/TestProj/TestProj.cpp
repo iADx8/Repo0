@@ -10,6 +10,8 @@ int main()
 {
 	cout << "37" << endl;
 	cout << "New Branch" << endl;
+
+	cout << "Branch 2 too" << endl;
 	getchar();
     return 0;
 }
