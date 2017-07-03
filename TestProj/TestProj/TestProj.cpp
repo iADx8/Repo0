@@ -10,6 +10,7 @@ int main()
 {
 	cout << "1" << endl;
 	cout << "Branch 1" << endl;
+	cout << "Branch 2 too" << endl;
 	getchar();
     return 0;
 }
