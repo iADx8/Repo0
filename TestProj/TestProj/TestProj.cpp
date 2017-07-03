@@ -8,7 +8,7 @@ using namespace std;
 
 int main()
 {
-	cout << "25" << endl;
+	cout << "37" << endl;
 	getchar();
     return 0;
 }
